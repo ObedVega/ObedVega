@@ -1,2 +1,2 @@
-# Obed-Vega
-### Hi, Im Obed
+# Hi :wave:, I'm Obed
+

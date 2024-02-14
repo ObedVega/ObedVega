@@ -10,7 +10,7 @@ So, that's me – Obed Vega, a software engineer always striving to level up in 
 ### :construction_worker: About my work:
 I’m currently working at [Teradata](https://www.teradata.com/) the cloud data analytics platform that unifies everything—data lakes, data warehouses, analytics, and new data sources and types. At [Teradata](https://www.teradata.com/) im part of the [developer portal](https://developers.teradata.com/) where our goal is to provide a cohesive user experience for developers.
 
-### :computer: Tech Stack i use at work:
+## :computer: Tech stack I use at work:
 ![icons8-javascript-48](https://github.com/ObedVega/ObedVega/assets/30850480/96bd6621-1d69-477c-a228-cb2d5c8470af)
 ![icons8-html-48](https://github.com/ObedVega/ObedVega/assets/30850480/0f972c5c-585b-4191-b35d-b8c9a25f0fb7)
 ![icons8-css-48](https://github.com/ObedVega/ObedVega/assets/30850480/2a75b7a1-623e-4c12-9a65-36217e843d0c)
@@ -28,3 +28,14 @@ I’m currently working at [Teradata](https://www.teradata.com/) the cloud data 
 
 ![icons8-drupal-48](https://github.com/ObedVega/ObedVega/assets/30850480/963043be-12ab-4c37-b283-78b649eb683d)
 ![pantheon-logo](https://github.com/ObedVega/ObedVega/assets/30850480/dce079d4-ecef-45d3-a6ec-c60b14d2ac53)
+
+
+## :computer:  Tech stack I use on my free time!! :sunglasses:
+![icons8-python-48](https://github.com/ObedVega/ObedVega/assets/30850480/b031e941-e566-4e8f-b657-30f901caccaa)
+![icons8-angular-48](https://github.com/ObedVega/ObedVega/assets/30850480/c8578f56-c969-4dcd-9cf8-df539430bb50)
+![icons8-amazon-web-services-48](https://github.com/ObedVega/ObedVega/assets/30850480/58df44f9-5021-4336-9fb0-0469ab8dc635)
+![icons8-heroku-48](https://github.com/ObedVega/ObedVega/assets/30850480/4e7772fb-3266-4c71-a436-008ad8f815f1)
+![icons8-mongodb-a-cross-platform-document-oriented-database-program-48](https://github.com/ObedVega/ObedVega/assets/30850480/b7c6f373-d88a-4b94-8cd2-5dca89de777a)
+![icons8-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites -48](https://github.com/ObedVega/ObedVega/assets/30850480/b31fe35c-82e7-4db6-993b-700573fde71f)
+![render](https://github.com/ObedVega/ObedVega/assets/30850480/bd399198-fb12-426f-8504-5eed6a97ca1c)
+

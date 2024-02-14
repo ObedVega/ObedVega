@@ -12,7 +12,6 @@ I’m currently working at [Teradata](https://www.teradata.com/) the cloud data 
 
 ### :computer: Tech Stack:
 ![icons8-javascript-48](https://github.com/ObedVega/ObedVega/assets/30850480/96bd6621-1d69-477c-a228-cb2d5c8470af)
-![icons8-drupal-48](https://github.com/ObedVega/ObedVega/assets/30850480/963043be-12ab-4c37-b283-78b649eb683d)
 ![icons8-html-48](https://github.com/ObedVega/ObedVega/assets/30850480/0f972c5c-585b-4191-b35d-b8c9a25f0fb7)
 ![icons8-css-48](https://github.com/ObedVega/ObedVega/assets/30850480/2a75b7a1-623e-4c12-9a65-36217e843d0c)
 ![icons8-vuejs-48](https://github.com/ObedVega/ObedVega/assets/30850480/cbfba895-b950-4302-9f08-4a24d577c64d)
@@ -26,4 +25,6 @@ I’m currently working at [Teradata](https://www.teradata.com/) the cloud data 
 ![icons8-mysql-48](https://github.com/ObedVega/ObedVega/assets/30850480/12ccd1e2-8ef5-4b2c-81d9-67f36f752983)
 ![icons8-npm-48](https://github.com/ObedVega/ObedVega/assets/30850480/a8b92e18-f90f-4b26-8e48-9fe3609d18db)
 ![icons8-jira-48](https://github.com/ObedVega/ObedVega/assets/30850480/a136b700-c312-48bd-a556-1c9d1bc3411d)
+
+![icons8-drupal-48](https://github.com/ObedVega/ObedVega/assets/30850480/963043be-12ab-4c37-b283-78b649eb683d)
 ![pantheon-logo](https://github.com/ObedVega/ObedVega/assets/30850480/dce079d4-ecef-45d3-a6ec-c60b14d2ac53)

@@ -8,7 +8,7 @@ But life isn't all about code and algorithms for me. I'm also a sports enthusias
 So, that's me – Obed Vega, a software engineer always striving to level up in my career and embracing the joys of life outside the tech world.
 
 ### :construction_worker: About my work:
-I’m currently working at [Teradata](https://www.teradata.com/) the cloud data analytics platform that unifies everything—data lakes, data warehouses, analytics, and new data sources and types. At [Teradata](https://www.teradata.com/) im part of the [developer portal](https://developers.teradata.com/) where are goal is to provide a cohesive user experience for developers.
+I’m currently working at [Teradata](https://www.teradata.com/) the cloud data analytics platform that unifies everything—data lakes, data warehouses, analytics, and new data sources and types. At [Teradata](https://www.teradata.com/) im part of the [developer portal](https://developers.teradata.com/) where our goal is to provide a cohesive user experience for developers.
 
 ### :computer: Tech Stack:
 ![icons8-javascript-48](https://github.com/ObedVega/ObedVega/assets/30850480/96bd6621-1d69-477c-a228-cb2d5c8470af)

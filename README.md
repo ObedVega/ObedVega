@@ -10,7 +10,7 @@ So, that's me – Obed Vega, a software engineer always striving to level up in 
 ### :construction_worker: About my work:
 I’m currently working at [Teradata](https://www.teradata.com/) the cloud data analytics platform that unifies everything—data lakes, data warehouses, analytics, and new data sources and types. At [Teradata](https://www.teradata.com/) im part of the [developer portal](https://developers.teradata.com/) where our goal is to provide a cohesive user experience for developers.
 
-### :computer: Tech Stack:
+### :computer: Tech Stack i use at work:
 ![icons8-javascript-48](https://github.com/ObedVega/ObedVega/assets/30850480/96bd6621-1d69-477c-a228-cb2d5c8470af)
 ![icons8-html-48](https://github.com/ObedVega/ObedVega/assets/30850480/0f972c5c-585b-4191-b35d-b8c9a25f0fb7)
 ![icons8-css-48](https://github.com/ObedVega/ObedVega/assets/30850480/2a75b7a1-623e-4c12-9a65-36217e843d0c)

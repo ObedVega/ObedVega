@@ -31,6 +31,7 @@ I’m currently working at [Teradata](https://www.teradata.com/) the cloud data 
 
 
 ## :computer:  Tech stack I use on my free time!! :sunglasses:
+![icons8-nodejs-48 (1)](https://github.com/ObedVega/ObedVega/assets/30850480/5a1214e0-3ed6-40cd-b64c-30e68748b224)
 ![icons8-python-48](https://github.com/ObedVega/ObedVega/assets/30850480/b031e941-e566-4e8f-b657-30f901caccaa)
 ![icons8-angular-48](https://github.com/ObedVega/ObedVega/assets/30850480/c8578f56-c969-4dcd-9cf8-df539430bb50)
 ![icons8-amazon-web-services-48](https://github.com/ObedVega/ObedVega/assets/30850480/58df44f9-5021-4336-9fb0-0469ab8dc635)

@@ -22,3 +22,7 @@ I’m currently working at [Teradata](https://www.teradata.com/) the cloud data 
 ![icons8-gitlab-48](https://github.com/ObedVega/ObedVega/assets/30850480/d43c51af-a321-4ace-a390-11d33a18daca)
 ![icons8-markdown-48](https://github.com/ObedVega/ObedVega/assets/30850480/5968f8d1-4d6e-4deb-b21f-776cb853c045)
 ![9367antora](https://github.com/ObedVega/ObedVega/assets/30850480/a612a4cd-a2a4-4d6f-93d8-4372210b0e84)
+![icons8-bootstrap-48](https://github.com/ObedVega/ObedVega/assets/30850480/5d4fe858-177b-47db-a08d-2cff83f37407)
+![icons8-mysql-48](https://github.com/ObedVega/ObedVega/assets/30850480/12ccd1e2-8ef5-4b2c-81d9-67f36f752983)
+![icons8-npm-48](https://github.com/ObedVega/ObedVega/assets/30850480/a8b92e18-f90f-4b26-8e48-9fe3609d18db)
+![icons8-jira-48](https://github.com/ObedVega/ObedVega/assets/30850480/a136b700-c312-48bd-a556-1c9d1bc3411d)

@@ -26,9 +26,6 @@ I’m currently working at [Teradata](https://www.teradata.com/) the cloud data 
 ![icons8-npm-48](https://github.com/ObedVega/ObedVega/assets/30850480/a8b92e18-f90f-4b26-8e48-9fe3609d18db)
 ![icons8-jira-48](https://github.com/ObedVega/ObedVega/assets/30850480/a136b700-c312-48bd-a556-1c9d1bc3411d)
 
-![icons8-drupal-48](https://github.com/ObedVega/ObedVega/assets/30850480/963043be-12ab-4c37-b283-78b649eb683d)
-![pantheon-logo](https://github.com/ObedVega/ObedVega/assets/30850480/dce079d4-ecef-45d3-a6ec-c60b14d2ac53)
-
 
 ## :computer:  Tech stack I use on my free time!! :sunglasses:
 ![icons8-nodejs-48 (1)](https://github.com/ObedVega/ObedVega/assets/30850480/5a1214e0-3ed6-40cd-b64c-30e68748b224)

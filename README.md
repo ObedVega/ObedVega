@@ -51,28 +51,50 @@ Drove product definition and delivery for an early-stage IoT solution that detec
 - GIT, TFS, Azure Repos
 - Microsoft SQL
 
-Global Hitss
-Global Hitss
-Full-time · 5 yrs 3 mosFull-time · 5 yrs 3 mos
-Tijuana, Baja California, MexicoTijuana, Baja California, Mexico
-Software Engineer
-Software Engineer
-Aug 2016 - Oct 2019 · 3 yrs 3 mosAug 2016 to Oct 2019 · 3 yrs 3 mos
-Sales Department
+## Software Engineer at Global Hitss · Aug 2016 - Oct 2019 
+**Sales Department**
+**Responsibilities:** Backend Development / Product and problem analysis to get to root cause of defect in TELMEX sales software.
 
-Responsibilities:
-*Backend Development / Product and problem analysis to get to root cause of defect in TELMEX sales software.
+**Back-end development:** 
+- Java, RPG and Free- Form.
+- Experience debugging.
+- Query writing.
+- Code review.
+- Understanding of Web Services protocols such as REST and SOAP.
+- Database development, SQL, DB2.
 
-Back-end development: 
-*Java, RPG and Free- Form.
-*Experience debugging.
-*Query writing.
-*Code review.
-*Understanding of Web Services protocols such as REST and SOAP.
-*Database development, SQL, DB2.
-My journey started with a degree in software engineering, and I've been on a relentless quest for growth ever since. I thrive on challenges, pushing my limits to keep evolving in my field.
-But life isn't all about code and algorithms for me. I'm also a sports enthusiast. Padel, basketball, and running are my go-to ways to unwind and stay fit. I firmly believe in holistic growth, not just professionally but in every aspect of life.
-So, that's me – Obed Vega, a software engineer always striving to level up in my career and embracing the joys of life outside the tech world.
+## Software Engineer at Global Hitss · Aug 2014 - Oct 2016 
+**Billing Department**
+**Responsibilities:** Backend Development / Product and problem analysis to get to root cause of defect in TELMEX sales software.
+
+**Back-end development:** 
+**Responsibilities:** API developmnet used by front-end developers, gathering and addressing technical and design requirements, build reusable code and libraries for future use.
+- Development of API for the IBM iSeries / AS400 mainframe system (RPG, Free-Form).
+- API Develpment in RPG.
+- API integration.
+- Database creation and integration.
+- Troubleshoot and debugging applications.
+- Problem analysis to get to root cause of defect Telmex Billing System.
+
+## Lead Technical Support Engineer at Excel Distribuidora · Jul 2012 - Jul 2014
+** Design and monitoring installation:**
+- CCTV
+- Access Control
+- Fire
+- Access point
+
+## Technical Support Engineer at Excel Distribuidora · Jan 2011 - Jul 2012  
+**Installation and configuration of systems:**
+- CCTV
+- Access Control
+- Fire
+- Access point
+
+## Student Software Engineer at Tecnológico Nacional de México  · Internship · Jun 2007 - Dec 2011 
+
+## IT Technical Support at Ayuntamiento de Tijuana B.C. · Jul 2010 - Dec 2010 
+
+## Jr Software Developer at TELNOR · Internship · Internship · 2007 
 
 ### :construction_worker: About my work:
 I’m currently working at [Teradata](https://www.teradata.com/) the cloud data analytics platform that unifies everything—data lakes, data warehouses, analytics, and new data sources and types. At [Teradata](https://www.teradata.com/) im part of the [developer portal](https://developers.teradata.com/) where our goal is to provide a cohesive user experience for developers.

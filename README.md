@@ -5,7 +5,7 @@ Product Owner / Product-minded Software Engineer with 10+ years of experience dr
 
 # WORK EXPERIENCE  
 
-**Software Engineer** at Teradata - July 2022 – Present. 
+## Software Engineer at Teradata - July 2022 – Present. 
 
 **Role description**: Developer Portal | UI Engineering. 
 As a UI Engineer at Teradata, I developed web applications using React, Docusaurus, and Node.js, focusing on developer experience and documentation platforms. In addition to engineering responsibilities, I took ownership of product activities by managing the backlog, writing and prioritizing user stories, and aligning the Developer Portal roadmap with stakeholder needs. 
@@ -17,12 +17,12 @@ As a UI Engineer at Teradata, I developed web applications using React, Docusaur
 - Technical Problem-Solving & Innovation: 
   - Built a Python/Django tool to detect and fix broken links across downloads.teradata.com 
   - Developed a FastAPI-based REST service for generating test data and automating email delivery and formatting validation. 
-- Key Achievements: 
+- *Key Achievements*: 
   - Successfully owned and prioritized the Developer Portal backlog, ensuring timely delivery of high-impact features. 
   - Championed cross-functional collaboration, acting as the primary liaison between engineering and product stakeholders. 
   - Delivered product increments showcased during demos to leadership teams, demonstrating measurable improvements in developer experience.
  
-**Product Owner** at Spysel - May 2023 – June 2024  
+## Product Owner at Spysel - May 2023 – June 2024  
 Drove product definition and delivery for an early-stage IoT solution that detected heat spots using an embedded device and mobile application. 
 - Translated business needs into clear product requirements, user stories, and acceptance criteria to guide the development team. 
 - Audited and prioritized fixes to critical architectural and security flaws, ensuring a scalable and secure foundation. 

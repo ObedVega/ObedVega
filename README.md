@@ -5,32 +5,24 @@ Product Owner / Product-minded Software Engineer with 10+ years of experience dr
 
 # WORK EXPERIENCE  
 
-Software Engineer at Teradata - July 2022 – Present. 
+*Software Engineer* at Teradata - July 2022 – Present. 
 
-Role description: Developer Portal | UI Engineering. 
+*Role description*: Developer Portal | UI Engineering. 
 As a UI Engineer at Teradata, I developed web applications using React, Docusaurus, and Node.js, focusing on developer experience and documentation platforms. In addition to engineering responsibilities, I took ownership of product activities by managing the backlog, writing and prioritizing user stories, and aligning the Developer Portal roadmap with stakeholder needs. 
 
-Product Ownership & Backlog Management: Defined epics and user stories, maintained a prioritized backlog based on business value, technical feasibility, and stakeholder input. 
-
-Agile Practices: Planned sprints, participated in daily stand-ups, sprint reviews, and retrospectives; coordinated with cross-functional teams to align delivery with organizational goals. 
-
-Cross-team Collaboration: Acted as the bridge between product, design, and engineering teams, facilitating clarity between business requirements and technical execution. 
-
-Engineering Delivery: Developed responsive, scalable, and user-friendly web applications. Ensured technical feasibility of UI/UX designs while optimizing performance. 
-
-Technical Problem-Solving & Innovation: 
-
-Built a Python/Django tool to detect and fix broken links across downloads.teradata.com 
-
-Developed a FastAPI-based REST service for generating test data and automating email delivery and formatting validation. 
-
-Key Achievements: 
-
-Successfully owned and prioritized the Developer Portal backlog, ensuring timely delivery of high-impact features. 
-
-Championed cross-functional collaboration, acting as the primary liaison between engineering and product stakeholders. 
-
-Delivered product increments showcased during demos to leadership teams, demonstrating measurable improvements in developer experience. 
+- Product Ownership & Backlog Management: Defined epics and user stories, maintained a prioritized backlog based on business value, technical feasibility, and stakeholder input. 
+- Agile Practices: Planned sprints, participated in daily stand-ups, sprint reviews, and retrospectives; coordinated with cross-functional teams to align delivery with organizational goals. 
+- Cross-team Collaboration: Acted as the bridge between product, design, and engineering teams, facilitating clarity between business requirements and technical execution. 
+- Engineering Delivery: Developed responsive, scalable, and user-friendly web applications. Ensured technical feasibility of UI/UX designs while optimizing performance. 
+- Technical Problem-Solving & Innovation: 
+  - Built a Python/Django tool to detect and fix broken links across downloads.teradata.com 
+  - Developed a FastAPI-based REST service for generating test data and automating email delivery and formatting validation. 
+- Key Achievements: 
+  - Successfully owned and prioritized the Developer Portal backlog, ensuring timely delivery of high-impact features. 
+  - Championed cross-functional collaboration, acting as the primary liaison between engineering and product stakeholders. 
+  - Delivered product increments showcased during demos to leadership teams, demonstrating measurable improvements in developer experience.
+ 
+  
 My journey started with a degree in software engineering, and I've been on a relentless quest for growth ever since. I thrive on challenges, pushing my limits to keep evolving in my field.
 But life isn't all about code and algorithms for me. I'm also a sports enthusiast. Padel, basketball, and running are my go-to ways to unwind and stay fit. I firmly believe in holistic growth, not just professionally but in every aspect of life.
 So, that's me – Obed Vega, a software engineer always striving to level up in my career and embracing the joys of life outside the tech world.

@@ -30,7 +30,7 @@ Drove product definition and delivery for an early-stage IoT solution that detec
 - Facilitated collaboration between mobile and backend developers, mentoring them to adopt structured practices and deliver faster. 
 - Acted as the bridge between business goals and technical execution, ensuring the solution met both functional and strategic objectives. 
 
-## Software Engineer at Teradata · Marcg 2020 – July 2022 
+## Software Engineer at Teradata · March 2020 – July 2022 
 **Role description**: Sustaining Engineering 
 - Analyze product issues to identify the root cause of defects in Teradata database software. 
 - Debug, fix, and test software defects, ensuring seamless integration into the codebase. 
@@ -99,9 +99,16 @@ Drove product definition and delivery for an early-stage IoT solution that detec
 ### My Projects and Work
 
 - <a href="https://www.bustedweb.me/" target="_blank">BustedWeb</a> – A free tool to check broken links on websites, helping improve user experience and SEO.
-- [Spysel](https://spysel.com/){:target="_blank"} – Electrical security and monitoring system.
-- [Pallevar](https://espallevar.com/){:target="_blank"} – Platform for restaurants to manage digital menus and receive online orders.
-- [Teradata Developers Portal](https://developers.teradata.com/){:target="_blank"} – Resource hub for developers using Teradata products, including tutorials, documentation, and downloads.
+- [Spysel](https://spysel.com/) – Electrical security and monitoring system.
+- [Pallevar](https://espallevar.com/) – Platform for restaurants to manage digital menus and receive online orders.
+- [Teradata Developers Portal](https://developers.teradata.com/) – Resource hub for developers using Teradata products, including tutorials, documentation, and downloads.
+
+
+##Stack
+| Frontend | Backend | DevOps |
+|----------|---------|--------|
+| ![JS](...) | ![Node](...) | ![AWS](...) |
+| ![HTML](...) | ![Python](...) | ![Heroku](...) |
 
 ## :computer: Tech stack I use at work:
 ![icons8-javascript-48](https://github.com/ObedVega/ObedVega/assets/30850480/96bd6621-1d69-477c-a228-cb2d5c8470af)

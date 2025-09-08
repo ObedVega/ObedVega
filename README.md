@@ -101,7 +101,7 @@ Drove product definition and delivery for an early-stage IoT solution that detec
 
 ### My Projects and Work
 
-- <a href="https://www.bustedweb.me/" target="_blank">BustedWeb</a> – A free tool to check broken links on websites, helping improve user experience and SEO.
+-  <a href="https://www.bustedweb.me/" target="_blank">BustedWeb</a> – A free tool to check broken links on websites, helping improve user experience and SEO.
 - [Spysel](https://spysel.com/) – Electrical security and monitoring system.
 - [Pallevar](https://espallevar.com/) – Platform for restaurants to manage digital menus and receive online orders.
 - [Teradata Developers Portal](https://developers.teradata.com/) – Resource hub for developers using Teradata products, including tutorials, documentation, and downloads.

@@ -96,8 +96,12 @@ Drove product definition and delivery for an early-stage IoT solution that detec
 
 ## Jr Software Developer at TELNOR · Internship · Internship · 2007 
 
-### :construction_worker: About my work:
-I’m currently working at [Teradata](https://www.teradata.com/) the cloud data analytics platform that unifies everything—data lakes, data warehouses, analytics, and new data sources and types. At [Teradata](https://www.teradata.com/) im part of the [developer portal](https://developers.teradata.com/) where our goal is to provide a cohesive user experience for developers.
+### My Projects and Work
+
+- [BustedWeb](https://bustedweb.me/){:target="_blank"} – A free tool to check broken links on websites, helping improve user experience and SEO.
+- [Spysel](https://spysel.com/){:target="_blank"} – Electrical security and monitoring system.
+- [Pallevar](https://espallevar.com/){:target="_blank"} – Platform for restaurants to manage digital menus and receive online orders.
+- [Teradata Developers Portal](https://developers.teradata.com/){:target="_blank"} – Resource hub for developers using Teradata products, including tutorials, documentation, and downloads.
 
 ## :computer: Tech stack I use at work:
 ![icons8-javascript-48](https://github.com/ObedVega/ObedVega/assets/30850480/96bd6621-1d69-477c-a228-cb2d5c8470af)

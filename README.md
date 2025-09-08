@@ -5,9 +5,9 @@ Product Owner / Product-minded Software Engineer with 10+ years of experience dr
 
 # WORK EXPERIENCE  
 
-*Software Engineer* at Teradata - July 2022 – Present. 
+**Software Engineer** at Teradata - July 2022 – Present. 
 
-*Role description*: Developer Portal | UI Engineering. 
+**Role description**: Developer Portal | UI Engineering. 
 As a UI Engineer at Teradata, I developed web applications using React, Docusaurus, and Node.js, focusing on developer experience and documentation platforms. In addition to engineering responsibilities, I took ownership of product activities by managing the backlog, writing and prioritizing user stories, and aligning the Developer Portal roadmap with stakeholder needs. 
 
 - Product Ownership & Backlog Management: Defined epics and user stories, maintained a prioritized backlog based on business value, technical feasibility, and stakeholder input. 
@@ -22,7 +22,16 @@ As a UI Engineer at Teradata, I developed web applications using React, Docusaur
   - Championed cross-functional collaboration, acting as the primary liaison between engineering and product stakeholders. 
   - Delivered product increments showcased during demos to leadership teams, demonstrating measurable improvements in developer experience.
  
-  
+**Product Owner** at Spysel - May 2023 – June 2024  
+Drove product definition and delivery for an early-stage IoT solution that detected heat spots using an embedded device and mobile application. 
+- Translated business needs into clear product requirements, user stories, and acceptance criteria to guide the development team. 
+- Audited and prioritized fixes to critical architectural and security flaws, ensuring a scalable and secure foundation. 
+- Partnered with stakeholders and engineers to redesign the system with a backend service layer, REST APIs, and real-time push notifications. 
+- Facilitated collaboration between mobile and backend developers, mentoring them to adopt structured practices and deliver faster. 
+- Acted as the bridge between business goals and technical execution, ensuring the solution met both functional and strategic objectives. 
+
+
+
 My journey started with a degree in software engineering, and I've been on a relentless quest for growth ever since. I thrive on challenges, pushing my limits to keep evolving in my field.
 But life isn't all about code and algorithms for me. I'm also a sports enthusiast. Padel, basketball, and running are my go-to ways to unwind and stay fit. I firmly believe in holistic growth, not just professionally but in every aspect of life.
 So, that's me – Obed Vega, a software engineer always striving to level up in my career and embracing the joys of life outside the tech world.

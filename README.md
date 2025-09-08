@@ -3,6 +3,8 @@
 
 Product Owner / Product-minded Software Engineer with 10+ years of experience driving definition and delivery of SaaS platforms, enterprise systems, and developer tools. Skilled at gathering requirements, shaping product roadmaps, and translating business needs into epics, user stories, and scalable technical solutions. Proven ability to own and prioritize backlogs, lead cross-functional teams, and deliver user-centered products that align with business strategy. Experience includes developer platforms at Teradata and sales/billing systems at Grupo Carso. 
 
+[Download my CV (PDF)](CV.pdf)
+
 # WORK EXPERIENCE  
 
 ## Software Engineer at [Teradata](https://www.teradata.com/) · July 2022 – Present. 

@@ -107,8 +107,8 @@ Drove product definition and delivery for an early-stage IoT solution that detec
 ##Stack
 | Frontend | Backend | DevOps |
 |----------|---------|--------|
-| ![JS](...) | ![Node](...) | ![AWS](...) |
-| ![HTML](...) | ![Python](...) | ![Heroku](...) |
+| ![JS](https://github.com/ObedVega/ObedVega/assets/30850480/96bd6621-1d69-477c-a228-cb2d5c8470af) ![HTML](https://github.com/ObedVega/ObedVega/assets/30850480/0f972c5c-585b-4191-b35d-b8c9a25f0fb7) ![CSS](https://github.com/ObedVega/ObedVega/assets/30850480/2a75b7a1-623e-4c12-9a65-36217e843d0c) ![Vue.js](https://github.com/ObedVega/ObedVega/assets/30850480/cbfba895-b950-4302-9f08-4a24d577c64d) ![GitHub](https://github.com/ObedVega/ObedVega/assets/30850480/827c3e71-8d39-4e7c-81d1-5659bb2deaa2) | ![Node.js](https://github.com/ObedVega/ObedVega/assets/30850480/8b00e01c-3c92-4475-955f-dddca1166f0b) ![Python](https://github.com/ObedVega/ObedVega/assets/30850480/b031e941-e566-4e8f-b657-30f901caccaa) ![Teradata](https://github.com/ObedVega/ObedVega/assets/30850480/9de032be-6d75-4caf-9f3e-731b1419e60c) ![MySQL](https://github.com/ObedVega/ObedVega/assets/30850480/12ccd1e2-8ef5-4b2c-81d9-67f36f752983) ![RPG/Free-Form](https://github.com/ObedVega/ObedVega/assets/30850480/a612a4cd-a2a4-4d6f-93d8-4372210b0e84) | ![AWS](https://github.com/ObedVega/ObedVega/assets/30850480/58df44f9-5021-4336-9fb0-0469ab8dc635) ![Heroku](https://github.com/ObedVega/ObedVega/assets/30850480/4e7772fb-3266-4c71-a436-008ad8f815f1) ![MongoDB](https://github.com/ObedVega/ObedVega/assets/30850480/b7c6f373-d88a-4b94-8cd2-5dca89de777a) ![Netlify](https://github.com/ObedVega/ObedVega/assets/30850480/b31fe35c-82e7-4db6-993b-700573fde71f) ![Render](https://github.com/ObedVega/ObedVega/assets/30850480/bd399198-fb12-426f-8504-5eed6a97ca1c) |
+
 
 ## :computer: Tech stack I use at work:
 ![icons8-javascript-48](https://github.com/ObedVega/ObedVega/assets/30850480/96bd6621-1d69-477c-a228-cb2d5c8470af)
